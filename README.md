@@ -3,7 +3,8 @@
 Healthcare Team for DataBlog will be sharing our code for our visualizations and other findings here!
 
 ## Our Team:
-Lead - Janet Yu
+Lead: Janet Yu
+
 Members:
 * Allison Chen
 * Queenie Yu
