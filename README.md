@@ -1,1 +1,15 @@
-# f23databloghealthcare
+# DataBlog F23 - Healthcare in Metropolitan Areas
+
+Healthcare Team for DataBlog will be sharing our code for our visualizations and other findings here!
+
+## Our Team:
+Lead - Janet YU
+Members:
+* Allison Chen
+* Queenie Yu
+* Jasmine Yung
+* Dakota Lin
+* Ethan Rauchwerk
+* Kaera Mishenkov Mitchen
+* Millie Huang
+* Armaan Bassi
