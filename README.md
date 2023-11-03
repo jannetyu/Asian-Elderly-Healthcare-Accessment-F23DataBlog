@@ -7,7 +7,7 @@ Lead: Janet Yu
 
 Members:
 * Allison Chen
-* Queenie Yu
+* Queenie Wu
 * Jasmine Yung
 * Dakota Lin
 * Ethan Rauchwerk
