@@ -14,3 +14,4 @@ Members:
 * Kaera Mishenkov Mitchen
 * Millie Huang
 * Armaan Bassi
+* Alagappan Sellappan
