@@ -1,6 +1,6 @@
-# DataBlog F23 - Healthcare in Metropolitan Areas
+# DataBlog F23 - Healthcare Assessment of Asian Elderly in San Francisco
 
-Healthcare Team for DataBlog will be sharing our code for our visualizations and other findings here!
+Our team analzyed the healthcare quality and access for Asian Elderly in San Francisco through various datasets from the IHSS (In-Home Support Services), AskCHIS, and much more. 
 
 ## Our Team:
 Lead: Janet Yu
